@@ -15,7 +15,9 @@ An interactive web app to analyze YouTube playlists — shows total duration, vi
 - pandas for data processing
 
 ---
-Streanlit App link -> https://yt-playlist-dashboard.streamlit.app/
+
+### Streanlit App link -> https://yt-playlist-dashboard.streamlit.app/
+
 ---
 
 ### ▶️ Run Locally
@@ -25,3 +27,9 @@ git clone https://github.com/aryan802/youtube-playlist-analyzer-dashboard.git
 cd youtube-playlist-analyzer-dashboard
 pip install -r requirements.txt
 streamlit run app.py
+
+---
+
+![image](https://github.com/user-attachments/assets/a902fe2d-4a9d-43fc-b721-8f23e749f890)
+
+---
