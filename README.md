@@ -19,7 +19,7 @@ An interactive web app to analyze YouTube playlists — shows total duration, vi
 ### ▶️ Run Locally
 
 ```bash
-git clone https://github.com/your-username/youtube-playlist-analyzer-dashboard.git
+git clone https://github.com/aryan802/youtube-playlist-analyzer-dashboard.git
 cd youtube-playlist-analyzer-dashboard
 pip install -r requirements.txt
 streamlit run app.py
